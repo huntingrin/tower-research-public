@@ -1,0 +1,7 @@
+{
+  "spaceName": "tower-research",
+  "project": {
+    "name": "<YOUR_TOWER_PROJECT_NAME>",
+    "url": "https://tower.im/teams/<TEAM_ID>/projects/<PROJECT_ID>/"
+  }
+}

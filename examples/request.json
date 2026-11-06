@@ -1,0 +1,15 @@
+{
+  "action": "run",
+  "spaceName": "tower-research",
+  "projectUrl": null,
+  "entity": "<ENTITY>",
+  "directAliases": ["<DIRECT_ALIAS>"],
+  "aliases": ["<ALIAS_1>", "<ALIAS_2>"],
+  "subBrands": ["<SUB_BRAND>"],
+  "maxPagesPerKeyword": 10,
+  "maxThreads": 60,
+  "maxPeripheral": 30,
+  "depth": "exhaustive",
+  "lens": "client-history",
+  "deliverable": "markdown-report"
+}
